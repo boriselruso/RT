@@ -1,0 +1,27 @@
+# Política de Privacidad del Bot
+
+### 1. Información que Recopilamos
+El bot RT puede recopilar cierta información como:
+- Mensajes en el servidor para la funcionalidad de logs.
+- Estadísticas de uso, economía y juegos.
+- Información de eventos como entradas de radio y participación en juegos.
+
+No recopilamos ni almacenamos información sensible como direcciones IP, nombres reales o direcciones de correo electrónico.
+
+### 2. Uso de la Información
+La información recopilada se utiliza exclusivamente para el funcionamiento del bot, incluyendo:
+- Gestión de logs de auditoría.
+- Seguimiento de la economía en el servidor.
+- Proporcionar una mejor experiencia de usuario en juegos y otras funciones del bot.
+
+### 3. Compartir Información
+No compartimos su información con terceros. La información recopilada se almacena localmente en la base de datos de [tu base de datos o servicio] y es accesible únicamente por el propietario del bot y el equipo de desarrollo.
+
+### 4. Seguridad de la Información
+Tomamos medidas razonables para proteger la información de accesos no autorizados o divulgaciones. Sin embargo, no podemos garantizar la seguridad completa debido a la naturaleza de las comunicaciones por internet.
+
+### 5. Cambios en la Política de Privacidad
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Las actualizaciones serán comunicadas a través del servidor o de una actualización del bot.
+
+### 6. Contacto
+Para cualquier pregunta sobre esta Política de Privacidad, puede contactarnos en https://discord.gg/jfsHz2puSr.
